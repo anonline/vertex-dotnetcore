@@ -1,0 +1,1 @@
+Vertex .NET MVC template port to .NET Core
